@@ -1,6 +1,6 @@
 # Industrial Pastel
 
-![](docs/big_screenshot.png)
+![](screenshots/header.png)
 
 Cold, clean and dark theme with fun colors 🥰
 
@@ -13,4 +13,4 @@ The theme may be ill-suited for you if you have a color vision deficiency.
 
 ## Editor screenshot
 
-![](docs/editor_screenshot.png)
+![](screenshots/editor.png)
