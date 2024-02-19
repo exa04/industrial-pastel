@@ -1891,7 +1891,7 @@
 	  "statusBarItem.remoteForeground": "#939ba6",
 	  "titleBar.activeBackground": "#0b0d12",
 	  "titleBar.activeForeground": "#939ba6",
-	  "titleBar.inactiveBackground": "#000000",
+	  "titleBar.inactiveBackground": "#0b0d12",
 	  "titleBar.inactiveForeground": "#676e79",
 	  "titleBar.border": "#000000",
 	  "menubar.selectionForeground": "#e7e9ec",
