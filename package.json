@@ -1,0 +1,21 @@
+{
+  "name": "industrial-pastel",
+  "displayName": "industrial-pastel",
+  "description": "Cold, clean dark theme with fun colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Industrial Pastel",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Industrial Pastel-color-theme.json"
+      }
+    ]
+  }
+}
